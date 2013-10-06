@@ -1,0 +1,6 @@
+This unit was made by snafusmith.
+
+To use the Eurofighter, copy the folder of the skin you want to use into your mod, but make sure you add the 'EurofighterSREF.dds' file as well! Only one copy of 'EurofighterSREF.dds' is needed for your mod.
+
+ENJOY!
+-Smitty

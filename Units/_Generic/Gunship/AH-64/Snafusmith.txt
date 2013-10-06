@@ -1,0 +1,8 @@
+This unit was made by snafusmith.
+
+To use the AH64 Apache, copy the folder of the skin you want to use into your mod, but make sure you add the 'AH64SREF.dds' file as well! 
+
+Only one copy of 'AH64SREF.dds' is needed for your mod.
+
+ENJOY!
+-Smitty

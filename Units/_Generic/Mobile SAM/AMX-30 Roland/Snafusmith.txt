@@ -1,0 +1,6 @@
+This unit was made by snafusmith.
+
+To use the AMX30 Roland, copy the folder of the skin you want to use into your mod, but make sure you add the 'RolandSREF.dds' file as well! Only one copy of 'RolandSREF.dds' is needed for your mod.
+
+ENJOY!
+-Smitty

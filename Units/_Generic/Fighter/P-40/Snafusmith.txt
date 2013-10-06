@@ -1,0 +1,6 @@
+This unit was made by snafusmith.
+
+To use the P-40, copy the folder of the nation you want to use into your mod, but make sure you add the 'P40SREF.dds' file as well! Only one copy of 'P40SREF.dds' is needed for your mod.
+
+ENJOY!
+-Smitty
