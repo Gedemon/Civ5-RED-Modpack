@@ -13,8 +13,10 @@
 -- Global change (thanks to Nutty)
 -----------------------------------------------------------------------------
 
-UPDATE ArtDefine_UnitInfoMemberInfos SET NumMembers = 18 WHERE UnitInfoType IN
-	(SELECT UnitArtInfo FROM Units WHERE MoveRate = 'BIPED');
+--UPDATE ArtDefine_UnitInfoMemberInfos SET NumMembers = 18 WHERE UnitInfoType IN
+--	(SELECT UnitArtInfo FROM Units WHERE MoveRate = 'BIPED');
+-- to do : exclude settler from the above !!!
+
 UPDATE ArtDefine_UnitMemberInfos SET Scale = 0.09 WHERE Type IN (SELECT UnitMemberInfoType FROM ArtDefine_UnitInfoMemberInfos WHERE UnitInfoType IN
 	(SELECT UnitArtInfo FROM Units WHERE MoveRate = 'BIPED'));
 

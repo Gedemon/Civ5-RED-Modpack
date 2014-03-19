@@ -800,5 +800,25 @@
 		<YBlockSpacingCount>0</YBlockSpacingCount>
 		<CenterWidth>0</CenterWidth>
 	</Formation>
+
+	<!-- Indian civ pack -->
+	<Formation>
+		<Name>ProtectedBigGun</Name>
+		<SpacingX>40</SpacingX>
+		<SpacingY>36</SpacingY>
+		<SpacingMultiplier>1</SpacingMultiplier>
+		<PerRowInc>0</PerRowInc>
+		<YOffsetInc>6</YOffsetInc>
+		<YOffsetCurved>2</YOffsetCurved>
+		<Stagger>1</Stagger>
+		<UnitRandomness>0</UnitRandomness>
+		<BlockRandomness>0</BlockRandomness>
+		<TotalWidth>2</TotalWidth>
+		<XBlockSize>40</XBlockSize>
+		<XBlockSpacingCount>0</XBlockSpacingCount>
+		<YBlockSize>0</YBlockSize>
+		<YBlockSpacingCount>0</YBlockSpacingCount>
+		<CenterWidth>0</CenterWidth>
+	</Formation>
 </Formations>
 
